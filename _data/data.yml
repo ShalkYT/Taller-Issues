@@ -31,16 +31,13 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Lenguajes
       info:
-        - idiom: English
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Ingles
+          level: C1
 
     interests:
       title: Interests
